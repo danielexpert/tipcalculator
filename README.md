@@ -8,7 +8,9 @@
 
 Below is a map that provides some information regarding whether or not a tip is expected, or how a tip may be received in certain regions, as well as a table of typical tip amounts in the United States and Canada for different services.<p>
   ![Screenshot_2](https://user-images.githubusercontent.com/92840891/195213445-bb6d3e85-a7b0-452a-9031-93570a3b4479.png)<br>
-  ![Screenshot_2](https://user-images.githubusercontent.com/92840891/195213657-c8e813cf-020b-46a1-9616-ff8abee0aae6.png)
+  ![Screenshot_2](https://user-images.githubusercontent.com/92840891/195213657-c8e813cf-020b-46a1-9616-ff8abee0aae6.png)<br>
+  ![Screenshot_3](https://user-images.githubusercontent.com/92840891/195215057-e8725253-39fb-4d00-814c-4cc01e1b30fd.png)
+
   
  
 
